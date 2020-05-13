@@ -10,7 +10,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Program to calcule the value to be paid on total for two different pieces ***");
 		System.out.println("Data for piece #1:");
 		System.out.print("Enter the code of the piece: ");
 		int numberPiece1 = scanner.nextInt();
